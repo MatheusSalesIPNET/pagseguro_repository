@@ -8,6 +8,8 @@ datagroup: pagseguro_ecommerce_default_datagroup {
   max_cache_age: "1 hour"
 }
 
+###############################
+
 persist_with: pagseguro_ecommerce_default_datagroup
 
 explore: orders {
